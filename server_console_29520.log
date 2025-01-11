@@ -1,0 +1,234 @@
+﻿ 7:01:57 Game Port: 2312, Steam Query Port: 2313
+ 7:01:57 Host identity created.
+20:55:33 S. KP uses modified data file
+20:55:33 Mission CTI 34 KP Liberation Altis v0.96.7 read from bank.
+20:55:33 Player S. KP connecting.
+20:55:34 Player S. KP connected (id=76561198988325271).
+20:57:03 Roles assigned.
+20:57:03 Reading mission ...
+20:57:09 Mission read.
+20:59:47 Player S. KP disconnected.
+20:59:47 All users disconnected, waiting for users.
+21:00:56 Uffz.CY uses modified data file
+21:00:57 Mission CTI 34 KP Liberation Altis v0.96.7 read from bank.
+21:00:57 Player Uffz.CY connecting.
+21:00:59 Player Uffz.CY connected (id=76561199127685236).
+21:01:18 HC3 uses modified data file
+21:01:18 Player HC3 connecting.
+21:01:19 Player HC3 connected (id=76561198988325271).
+21:01:41 Player HC3 disconnected.
+21:01:50 Player Uffz.CY disconnected.
+21:01:50 All users disconnected, waiting for users.
+21:02:03 Uffz.CY uses modified data file
+21:02:03 Mission CTI 34 KP Liberation Altis v0.96.7 read from bank.
+21:02:03 Player Uffz.CY connecting.
+21:02:05 Player Uffz.CY connected (id=76561199127685236).
+21:02:18 HC3 uses modified data file
+21:02:18 Player HC3 connecting.
+21:02:19 Player HC3 connected (id=76561198988325271).
+21:02:22 Player HC3 disconnected.
+21:03:33 Roles assigned.
+21:03:33 Reading mission ...
+21:03:35 Mission read.
+21:03:58 Derek Wong uses modified data file
+21:03:58 Player Derek Wong connecting.
+21:04:02 Player Derek Wong connected (id=76561198814731467).
+21:04:40 Admin logged in, player: Derek Wong, playerUID: 76561198814731467, IP: 169.254.190.213:2304.
+21:05:21 Can't find a mission collection / mission with template name: 'Ukraine_Summer.chernarus_summer.pbo', skipping to next mission.
+21:05:21 Mission CTI 34 KP Liberation Altis v0.96.7 read from bank.
+21:06:07 Mission CTI 34 KP Liberation Altis v0.96.7 read from bank.
+21:06:35 HptGefr. Forever uses modified data file
+21:06:35 Player HptGefr. Forever connecting.
+21:06:37 Player HptGefr. Forever connected (id=76561199200845818).
+21:06:49 Can't find a mission collection / mission with template name: 'UN.chongo.pbo', skipping to next mission.
+21:06:49 Mission CTI 34 KP Liberation Altis v0.96.7 read from bank.
+21:08:38 Mission CTI 34 KP Liberation Altis v0.96.7 read from bank.
+21:08:51 Mission CTI 34 KP Liberation Altis v0.96.7 read from bank.
+21:08:55 Player Derek Wong disconnected.
+21:08:55 Admin logged out, player: Derek Wong, playerUID: 76561198814731467, IP: 169.254.190.213:2304.
+21:09:01 Derek Wong uses modified data file
+21:09:01 Player Derek Wong connecting.
+21:09:02 S. KP uses modified data file
+21:09:02 Player S. KP connecting.
+21:09:03 Player S. KP connected (id=76561198988325271).
+21:09:03 Player Derek Wong connected (id=76561198814731467).
+21:09:24 Admin logged in, player: Derek Wong, playerUID: 76561198814731467, IP: 169.254.190.213:2304.
+21:10:22 Mission Ukraine_Summer.chernarus_summer read from bank.
+21:12:22 Player HptGefr. Forever disconnected.
+21:12:26 HptGefr. Forever uses modified data file
+21:12:26 Player HptGefr. Forever connecting.
+21:12:28 Player HptGefr. Forever connected (id=76561199200845818).
+21:12:29 Player HptGefr. Forever disconnected.
+21:12:31 Player S. KP disconnected.
+21:12:43 S. KP uses modified data file
+21:12:43 Player S. KP connecting.
+21:12:44 Player S. KP connected (id=76561198988325271).
+21:15:26 HptGefr. Forever uses modified data file
+21:15:26 Player HptGefr. Forever connecting.
+21:15:28 Player HptGefr. Forever connected (id=76561199200845818).
+21:15:39 Uffz. Manfred uses modified data file
+21:15:39 Player Uffz. Manfred connecting.
+21:15:41 Player Uffz. Manfred connected (id=76561198349938199).
+21:16:37 Player Uffz.CY disconnected.
+21:16:42 Uffz.CY uses modified data file
+21:16:42 Player Uffz.CY connecting.
+21:16:44 Player Uffz.CY connected (id=76561199127685236).
+21:17:05 Roles assigned.
+21:17:05 Reading mission ...
+21:17:16 Mission read.
+21:17:49 Game started.
+21:18:16 Game restarted
+class Session
+{
+	mission="Ukraine_Summer";
+	island="chernarus_summer";
+	gameType="";
+	duration=27.252001;
+	class Player1
+	{
+		name="Derek Wong";
+		killsInfantry=0;
+		killsSoft=0;
+		killsArmor=0;
+		killsAir=0;
+		killsPlayers=0;
+		customScore=0;
+		killsTotal=0;
+		killed=0;
+	};
+	class Player2
+	{
+		name="HptGefr. Forever";
+		killsInfantry=0;
+		killsSoft=0;
+		killsArmor=0;
+		killsAir=0;
+		killsPlayers=0;
+		customScore=0;
+		killsTotal=0;
+		killed=0;
+	};
+	class Player3
+	{
+		name="S. KP";
+		killsInfantry=0;
+		killsSoft=0;
+		killsArmor=0;
+		killsAir=0;
+		killsPlayers=0;
+		customScore=0;
+		killsTotal=0;
+		killed=0;
+	};
+	class Player4
+	{
+		name="Uffz. Manfred";
+		killsInfantry=0;
+		killsSoft=0;
+		killsArmor=0;
+		killsAir=0;
+		killsPlayers=0;
+		customScore=0;
+		killsTotal=0;
+		killed=0;
+	};
+	class Player5
+	{
+		name="Uffz.CY";
+		killsInfantry=0;
+		killsSoft=0;
+		killsArmor=0;
+		killsAir=0;
+		killsPlayers=0;
+		customScore=0;
+		killsTotal=0;
+		killed=0;
+	};
+};
+21:18:19 Roles assigned.
+21:18:19 Reading mission ...
+21:18:22 Mission read.
+21:19:33 Mission Ukraine_Summer.chernarus_summer read from bank.
+21:19:44 Roles assigned.
+21:19:44 Reading mission ...
+21:19:47 Mission read.
+21:20:01 Game started.
+21:26:44 HptGefr.Raphael uses modified data file
+21:26:44 Player HptGefr.Raphael connecting.
+21:26:46 Player HptGefr.Raphael connected (id=76561198156100033).
+21:29:43 StGefr. Terus uses modified data file
+21:29:43 Player StGefr. Terus connecting.
+21:29:45 Player StGefr. Terus connected (id=76561198102834213).
+21:33:09 Fw. Richard uses modified data file
+21:33:09 Player Fw. Richard connecting.
+21:33:11 Player Fw. Richard connected (id=76561198013194843).
+21:34:09 Player S. KP disconnected.
+21:34:16 S. KP uses modified data file
+21:34:16 Player S. KP connecting.
+21:34:18 Player S. KP connected (id=76561198988325271).
+21:34:27 Brotank uses modified data file
+21:34:27 Player Brotank connecting.
+21:34:29 Player Brotank connected (id=76561198230535968).
+21:36:00 ahTin uses modified data file
+21:36:00 Player ahTin connecting.
+21:36:01 Player ahTin connected (id=76561198087537073).
+21:36:55 Player StGefr. Terus is losing connection
+21:36:56 Player StGefr. Terus disconnected.
+21:42:11 StGefr. Terus uses modified data file
+21:42:11 Player StGefr. Terus connecting.
+21:42:18 Player StGefr. Terus connected (id=76561198102834213).
+21:43:00 HptGefr. Chuck uses modified data file
+21:43:00 Player HptGefr. Chuck connecting.
+21:43:02 Player HptGefr. Chuck connected (id=76561198052299380).
+21:54:06 Lt.Marco uses modified data file
+21:54:06 Player Lt.Marco connecting.
+21:54:09 Player Lt.Marco connected (id=76561198052585807).
+21:59:34 HptGefr. Mike uses modified data file
+21:59:34 Player HptGefr. Mike connecting.
+21:59:36 Player HptGefr. Mike connected (id=76561198053185039).
+22:31:47 Fw. Pocket_Raider(Seven) uses modified data file
+22:31:47 Player Fw. Pocket_Raider(Seven) connecting.
+22:31:49 Player Fw. Pocket_Raider(Seven) connected (id=76561198074124760).
+22:37:39 OLt. Potato uses modified data file
+22:37:39 Player OLt. Potato connecting.
+22:37:42 Player OLt. Potato connected (id=76561198090830221).
+22:55:08 Uffz. TWthemlg uses modified data file
+22:55:08 Player Uffz. TWthemlg connecting.
+22:55:10 Player Uffz. TWthemlg connected (id=76561198236901206).
+23:27:17 Player Uffz. Manfred disconnected.
+23:33:10 Uffz. Manfred uses modified data file
+23:33:10 Player Uffz. Manfred connecting.
+23:33:14 Player Uffz. Manfred connected (id=76561198349938199).
+23:38:05 Player HptGefr. Forever is losing connection
+23:38:06 Player HptGefr. Forever disconnected.
+23:40:21 Player ahTin disconnected.
+23:40:22 Player HptGefr. Chuck disconnected.
+23:40:22 Player Fw. Pocket_Raider(Seven) disconnected.
+23:40:23 Player S. KP disconnected.
+23:40:23 Player HptGefr.Raphael disconnected.
+23:40:25 Player Uffz. TWthemlg is losing connection
+23:40:25 Player Fw. Richard is losing connection
+23:40:25 Player Derek Wong is losing connection
+23:40:25 Player Lt.Marco is losing connection
+23:40:25 Player OLt. Potato is losing connection
+23:40:25 Player Lt.Marco disconnected.
+23:40:27 Player Uffz. TWthemlg disconnected.
+23:40:27 Player Derek Wong disconnected.
+23:40:27 Admin logged out, player: Derek Wong, playerUID: 76561198814731467, IP: 169.254.190.213:2304.
+23:40:27 Player Fw. Richard disconnected.
+23:40:27 Player OLt. Potato disconnected.
+23:41:15 HptGefr.Raphael uses modified data file
+23:41:15 Player HptGefr.Raphael connecting.
+23:41:17 Player HptGefr.Raphael connected (id=76561198156100033).
+23:41:52 OLt. Potato uses modified data file
+23:41:52 Player OLt. Potato connecting.
+23:41:54 Player OLt. Potato connected (id=76561198090830221).
+23:42:00 ahTin uses modified data file
+23:42:00 Player ahTin connecting.
+23:42:02 Derek Wong uses modified data file
+23:42:02 Player Derek Wong connecting.
+23:42:02 Player ahTin connected (id=76561198087537073).
+23:42:03 Player Derek Wong connected (id=76561198814731467).
+23:42:13 Fw. Pocket_Raider(Seven) uses modified data file
+23:42:13 Player Fw. Pocket_Raider(Seven) connecting.
+23:42:16 Fw. Richard
